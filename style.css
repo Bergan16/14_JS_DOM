@@ -1,0 +1,13 @@
+body{
+	background-color: lightgrey;
+}
+.sectioncolor{
+	background-color:white;
+	border-radius: 25px;
+}
+.sectionmargin{
+	margin:50px;
+}
+.containerpadding{
+	padding:20px;
+}
